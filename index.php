@@ -19,6 +19,7 @@ echo $str['hello'];
 
 ?>
 <a href="index.php?lang=en" >English</a>
+<a href="index.php?lang=cz" >Česky</a>
 
 </body>
 </html>
